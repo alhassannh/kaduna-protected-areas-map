@@ -5,7 +5,7 @@ This is a simple cartographic mapping project created using **Python, GeoPandas,
 The map was produced using publicly available datasets from the **World Database on Protected Areas (WDPA)**, **HydroRIVERS**, and **GRID3 Nigeria Administrative Boundaries**. The entire workflow can be reproduced using the `kaduna_protected_areas.py` script included in this repository.
 
 
-Future work: Future versions of this project may incorporate ESA or Sentinel datasets to further investigate land cover patterns and the conservation effectiveness of protected areas.
+**Future work**: Future versions of this project may incorporate ESA or Sentinel datasets to further investigate land cover patterns and the conservation effectiveness of protected areas.
 
 
 References
